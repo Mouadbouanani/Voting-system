@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> f6f3b71e9df6c3f3bdea69464a9eb2076d772ce0
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<<<<<<< HEAD
 ## Run the Voting dApp (front + blockchain)
 
 ### Prerequisites
@@ -35,6 +39,8 @@ From the project root:
 - `npm install`
 - `npm start`
 
+=======
+>>>>>>> f6f3b71e9df6c3f3bdea69464a9eb2076d772ce0
 ## Available Scripts
 
 In the project directory, you can run:
@@ -101,6 +107,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<<<<<<< HEAD
 =======
 # Voting-system
 >>>>>>> baefd47ec56be6b5ea854c10149070b5478e95dd
+=======
+>>>>>>> f6f3b71e9df6c3f3bdea69464a9eb2076d772ce0
