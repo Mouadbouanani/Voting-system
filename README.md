@@ -3,7 +3,6 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<<<<<<< HEAD
 ## Run the Voting dApp (front + blockchain)
 
 ### Prerequisites
