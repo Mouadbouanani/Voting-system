@@ -1,5 +1,4 @@
 <<<<<<< HEAD
-<<<<<<< HEAD
 =======
 >>>>>>> f6f3b71e9df6c3f3bdea69464a9eb2076d772ce0
 # Getting Started with Create React App
